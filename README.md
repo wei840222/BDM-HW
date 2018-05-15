@@ -12,3 +12,6 @@
 
 **HW3**
 > https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection
+
+**HW4**
+> https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection
