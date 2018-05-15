@@ -15,3 +15,6 @@
 
 **HW4**
 > https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection
+
+**Bonus1**
+> https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
